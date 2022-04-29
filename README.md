@@ -1,6 +1,6 @@
 # kodluyoruz ilk repo
 
-'bu repo [Kodluyoruz] (https://www.kodluyoruz.org/) frontend eğitimi için bir index.html sayfayı içeriyor.
+> bu repo >> [Kodluyoruz] (https://www.kodluyoruz.org/) << frontend eğitimi için bir index.html sayfayı içeriyor.
  '
 
 ## markdown kullanımı
