@@ -7,3 +7,7 @@
 
 [markdownsyntax](https://www.markdownguide.org/basic-syntax/)
 
+
+## patikadev profilim için
+[YusufErdogan] (https://app.patika.dev/ysferd95)
+
